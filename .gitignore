@@ -107,3 +107,4 @@ dist
 LICENSE
 NLW.code-workspace
 package-lock.json
+.env
